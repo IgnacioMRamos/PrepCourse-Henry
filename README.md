@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es mi primer repositorio en la nubea. Es parte del módulo 2 del PrepCourse de Henry
+Esta es un prueba para clonar un repositorio de la nube a mi computadora
